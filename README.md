@@ -1,0 +1,1 @@
+Progetto di algoritmi e strutture dati, dentro la cartella si hanno le informazioni fornite dal Professore e dentro ogni cartella relativa all'esercizio si ha un fila README con la spiegazione della soluzione relativa all'esercizio.
